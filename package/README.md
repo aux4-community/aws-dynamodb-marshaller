@@ -229,4 +229,4 @@ If the command receives malformed JSON on stdin it will report an error such as 
 
 ## License
 
-This package does not specify a license. See [LICENSE](./license) for details.
+Apache-2.0. See [LICENSE](./LICENSE) for details.
